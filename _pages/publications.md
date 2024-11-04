@@ -15,7 +15,7 @@ author_profile: true
 (* denotes equal contribution)
 </font>
 
-------------------------------------
+<hr style="border:1px solid gray">
 
 K Lakshminarasimhan (2024).\
 A Computational Principle of Habit Formation.\
