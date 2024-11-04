@@ -15,6 +15,8 @@ author_profile: true
 (* denotes equal contribution)
 </font>
 
+------
+
 K Lakshminarasimhan (2024).\
 A Computational Principle of Habit Formation.\
 *bioRxiv* <small>[pdf](/files/2024 HabitFormation.pdf) | [link](https://www.biorxiv.org/content/10.1101/2024.10.12.618033v1.full)</small> 🟢 🔵 ⬛
