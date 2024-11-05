@@ -17,6 +17,10 @@ author_profile: true
 
 <hr style="border:1px solid gray">
 
+K Lakshminarasimhan, J Buck, G Horga (2024).\
+A Corticostriatal Learning Mechanism Linking Excess Striatal Dopamine and Auditory Hallucinations.\
+*preprint* <small>[pdf](/files/2024 DopamineHallucinations.pdf)</small> 🔵 ⬛
+
 K Lakshminarasimhan (2024).\
 A Computational Principle of Habit Formation.\
 *bioRxiv* <small>[pdf](/files/2024 HabitFormation.pdf) | [link](https://www.biorxiv.org/content/10.1101/2024.10.12.618033v1.full)</small> 🟢 🔵 ⬛
