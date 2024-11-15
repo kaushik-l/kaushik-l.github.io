@@ -17,7 +17,7 @@ author_profile: true
 
 <hr style="border:1px solid gray">
 
-K Lakshminarasimhan, J Buck, G Horga (2024).\
+K Lakshminarasimhan\*, J Buck\*, G Horga (2024).\
 A Corticostriatal Learning Mechanism Linking Excess Striatal Dopamine and Auditory Hallucinations.\
 *preprint* <small>[pdf](/files/2024 DopamineHallucinations.pdf)</small> 🔵 ⬛
 
