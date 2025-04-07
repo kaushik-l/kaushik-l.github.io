@@ -21,8 +21,8 @@ main:
   - title: "teaching"
     url: /teaching/
 
-  - title: "deib"
-    url: /deib/
+  # - title: "deib"
+  #   url: /deib/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
